@@ -1,0 +1,28 @@
+.container{
+    width:200px;
+    border: none;
+   display:flex;
+   flex-wrap: wrap;
+   margin: auto;
+ }
+ .red0{
+ width:100px;
+  height:100px;
+ background-color: red;
+ }
+ 
+ .black0{
+ width :100px;
+ height:100px;
+ background-color:black;
+ }
+ .black1{
+ width :100px;
+ height:100px;
+ background-color:black;
+ }
+ .red1{
+ width:100px;
+  height:100px;
+ background-color: red;
+ }
